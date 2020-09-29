@@ -1,0 +1,3 @@
+war_peace.txt
+name
+20
